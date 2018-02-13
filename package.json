@@ -6,8 +6,7 @@
   "scripts": {
     "lint": "eslint ./src",
     "start": "nodeppt start -p 9998 -d ppt -w",
-    "build": "webpack-dev-server --hot --devtool source-map",
-    "dev": "webpack --config webpack.config.js"
+    "dev": "webpack-dev-server --hot --devtool source-map"
   },
   "repository": {
     "type": "git",
