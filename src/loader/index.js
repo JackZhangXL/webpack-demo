@@ -1,3 +1,3 @@
-require('./index.css');
+import './index.css';
 
 window.document.getElementById('app').innerText = 'Learn webpack loader';
