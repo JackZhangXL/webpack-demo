@@ -2,6 +2,6 @@
   "name": "webpack-demo",
   "version": "0.0.1",
   "scripts": {
-    "dev": "webpack"
+    "build": "webpack"
   }
 }
