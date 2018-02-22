@@ -37,4 +37,4 @@ module.exports = function (env = {}, argv) {
         plugins: plugins,
         devtool: isProduction ? undefined : 'source-map',
     };
-}
+};
